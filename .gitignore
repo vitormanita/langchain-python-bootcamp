@@ -1,0 +1,15 @@
+logs
+dist
+*.pyc
+*.bk
+*.whl
+.vscode
+.idea
+__pycache__/
+dist/
+.pytest_cache
+tutorial/
+.ipynb_checkpoints
+exports
+some_data/
+db/
